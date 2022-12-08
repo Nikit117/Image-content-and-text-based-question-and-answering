@@ -13,7 +13,7 @@ warnings.filterwarnings("ignore")
 
 
 
-model = load_model("./model_weights/model_9.h5")
+model = load_model("./model_weights/model.h5")
 model.make_predict_function()
 
 model_temp = ResNet50(input_shape=(224,224,3))
