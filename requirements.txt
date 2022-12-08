@@ -1,7 +1,7 @@
 beautifulsoup4==4.11.1
 keras==2.11.0
 Keras_Preprocessing==1.1.2
-matplotlib==3.6.2
+matplotlib
 numpy==1.23.5
 requests==2.28.1
 streamlit==1.15.2
