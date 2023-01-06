@@ -1,0 +1,14 @@
+{  
+    "manifest_version": 3,  
+    "name": "Nikit",  
+    "description": "NLP_Extension",  
+    "version": "2.9.6",  
+    "action": {  
+     "default_icon": "logo.png",  
+     "default_popup": "index.html"  
+    },  
+    "permissions": [  
+     "activeTab",  
+     "storage"  
+    ]  
+}  
